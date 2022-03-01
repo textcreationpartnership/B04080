@@ -1,0 +1,784 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of such of the subscribers of land and money towards a fund for the national land-bank, who having paid in their subscription-money, or subscribed the last instrument, are intituled to elect or be elected directors of the said bank.</title>
+            <author>Land Bank (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04080</idno>
+            <idno type="STC">Wing L2464C</idno>
+            <idno type="STC">ESTC R181344</idno>
+            <idno type="EEBO-CITATION">52528847</idno>
+            <idno type="OCLC">ocm 52528847</idno>
+            <idno type="VID">178828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178828)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2772:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of such of the subscribers of land and money towards a fund for the national land-bank, who having paid in their subscription-money, or subscribed the last instrument, are intituled to elect or be elected directors of the said bank.</title>
+                  <author>Land Bank (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land banks --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_subscribers">
+            <pb n="1" facs="tcp:178828:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>A LIST of the Names of ſuch of the Subſcribers of <hi>Land</hi> and <hi>Money</hi> towards a Fund for the <hi>National Land-Bank,</hi> who having paid in their Subſcription-Money, or ſubſcribed the laſt Inſtrument, are intituled to Elect or be Elected <hi>Di<g ref="char:EOLhyphen"/>rectors</hi> of the ſaid Bank.</head>
+            <p>
+               <hi>Note,</hi> Thoſe who are marked thus † are qualified to be Directors, having ſubſcribed 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> Value: Thoſe marked thus * have no Vote.</p>
+            <list>
+               <head>A</head>
+               <item>† SIR Thomas Aleyn <hi>Bar.</hi>
+               </item>
+               <item>† Matthew Alured <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Jeffery Amhurft <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Gabriel Armiger <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Henry Aſhley <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† William Atwood <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Robert Auſten <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. John Andrews,</item>
+               <item>† Mr. Edward Arlibeare,</item>
+               <item>Mr. Joſeph Anthony,</item>
+               <item>* Mr. Nicholas Allen.</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>† Sir Francis Bickley <hi>Bar.</hi>
+               </item>
+               <item>† Sir John Bolles <hi>Bar.</hi>
+               </item>
+               <item>† Thomas Bard <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Roger Bodenham <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Edward Brent <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† William Brockman <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. William Birde,</item>
+               <item>† Mr. Richard Blackham,</item>
+               <item>† Mr. Nathaniel Bladen,</item>
+               <item>† Mr. John Booth,</item>
+               <item>† Mr. John Briſcoe,</item>
+               <item>† Capt. John Bromwell,</item>
+               <item>† Mr. Thomas Burton,</item>
+               <item>† Mr. Theophilus Boughey,</item>
+               <item>† Mr. Phineas Bowles,</item>
+               <item>Sydenham Baker <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Tho. Burwell <hi>Doctor of Phyſick,</hi>
+               </item>
+               <item>Mr. Simon Baxter,</item>
+               <item>Mr. Nathaniel Beale,</item>
+               <item>Mrs. Sarah Becher,</item>
+               <item>Mr. James Byar,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mrs. Bridget Bagnall,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr. Philip Bayley,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr. Philip Bertell,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr. William Brewer,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr. Richard Bromhall,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr. John Burgis,</item>
+               <item>* Mr. Philip Burgis,</item>
+               <item>* Mr. Robert Buſcough.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sir Dudley Cullum,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dr. William Coker,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Robert Coker <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr. John Caine,</item>
+               <item>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr. Paul Calton,</item>
+               <item>† Mr. John Carrier,</item>
+               <item>† Mr. John Chriſtie,</item>
+               <item>† Mr. Samuel Clarke.</item>
+               <item>† Mr. Matthew Collet,</item>
+               <item>† Mr. John Coppin,</item>
+               <item>† Mr. Cuthbert Coteſworth,</item>
+               <item>† Mr. Thomas Crofts,</item>
+               <item>George Clerke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Mr. Richard Chevall,</item>
+               <item>Mr. William Chevall,</item>
+               <item>Mr. Chriſtopher Clarke,</item>
+               <item>Mr. John Cloptom,</item>
+               <item>Mr. Thomas Coker,</item>
+               <item>Mr. John Cranmer,</item>
+               <item>Mr. Benjamin Croſſe,</item>
+               <item>* <hi>The Counteſs Dowager of</hi> Col<g ref="char:EOLhyphen"/>cheſter,</item>
+               <item>* Mrs. Elizabeth Collet,</item>
+               <item>* Mr. Joſeph Collet,</item>
+               <item>* Mrs. Philippa Creed,</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>† Sir Matthew Dudley <hi>Bar.</hi>
+               </item>
+               <item>† Dame Elizabeth Dodſon,</item>
+               <item>† Chriſtopher Davies <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. Stephen De-Grave,</item>
+               <item>† Mr. John Deye,</item>
+               <item>Mr. William Deane,</item>
+               <item>Mr. William Delaune,</item>
+               <item>Mr. David Denham,</item>
+               <item>Mr. John Denny,</item>
+               <item>Mr. Robert Douce,</item>
+               <item>Mr. Joſhua Dunn,</item>
+               <item>* Mr. John Darby,</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>† Mr. John Emilie,</item>
+               <item>Mr. Matthew Evans,</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>† Edward Fulier <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. Edward Ford,</item>
+               <item>† Mr. Thomas Ford,</item>
+               <item>† Mrs. Elizabeth Fountain,</item>
+               <item>† Mr. John Full <hi>of</hi> Downton,</item>
+               <item>John Fitch <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Mr. Thomas Foord,</item>
+               <item>Mr. John Full <hi>of</hi> Berry Pomroy.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>† <hi>The H.</hi> Bernard Granville <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Sir Richard Cipps Kt.</item>
+               <item>† Tho. Goodinge Serj. at Law,</item>
+               <item>† Richard Goodall <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Thomas Goodall <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Samuel Grant <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. John Grainger,</item>
+               <item>† Mr. John Grant,</item>
+               <item>† Mr. John Garret,</item>
+               <item>Mr. Richard Gammon,</item>
+               <item>Mr. Hugh Garret,</item>
+               <item>Mr. Walter Getſins,</item>
+               <item>Mr. John Greenfeild,</item>
+               <item>* Dr. John Griffith,</item>
+               <item>* Mr. Alexander Gaune,</item>
+               <item>* Mr. Edward Gibbon,</item>
+               <item>* Mr. Nicholas Goodwin,</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>† <hi>The H.</hi> Craven Howard <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Gideon Haydon <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† John Hody <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Thomas Hyne <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. Ralph Harwood,</item>
+               <item>† Mr. Thomas Heath,</item>
+               <item>Mr. John Hay,</item>
+               <item>Mr. Henry Harding,</item>
+               <item>Mr. Thomas Harvey,</item>
+               <item>Mr. Edmond Haſelwood,</item>
+               <item>Mr. Bedingfeild Heigham <hi>ſen.</hi>
+               </item>
+               <item>Mr. Richard Hollman,</item>
+               <item>* Mr. Joſeph Harding,</item>
+               <item>* Mrs. Margaret Hyde.</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>† Mr. Tho. Jackſon,</item>
+               <item>† Mr. John Jackſon,</item>
+               <item>Mr. Oliver John.</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>† Charles Kirkham <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>† Thomas Lake <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† George Langton <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Daniel de Ligne <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Henry Ludlow <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. H. L.</item>
+               <item>† Mr. Peter Lecuſe,</item>
+               <item>William Langton <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>* Dr. Emanuel Langford.</item>
+            </list>
+            <pb n="2" facs="tcp:178828:2"/>
+            <!-- PDF PAGE 18 -->
+            <list>
+               <head>M</head>
+               <item>† Sir Thomas Mackworth <hi>Bar.</hi>
+               </item>
+               <item>† Sir Henry Marwood <hi>Bar.</hi>
+               </item>
+               <item>† Sir John Morden <hi>Bar.</hi>
+               </item>
+               <item>† William Mathews <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† John Metcalfe <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† John Millecent <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Thomas Morice <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. William Meredith,</item>
+               <item>Thomas Morris <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Mr. Harcourt Maſter,</item>
+               <item>Mr. George Mathews,</item>
+               <item>* Mr. Charles Mathews,</item>
+               <item>* Mr. Jeremiah Moore,</item>
+               <item>* Mrs. Morgan.</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>† Thomas Neale <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Oliver le Neve <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Philip Neve <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Edward le Neve <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. Henry Neale,</item>
+               <item>Mr. James Norford,</item>
+               <item>Mr. Peter Le Neve,</item>
+               <item>Mr. James Newton of <hi>Hogſden,</hi>
+               </item>
+               <item>Capt. John Nicholſon,</item>
+               <item>* <hi>The Honourable</hi> Heſter Noy,</item>
+               <item>* Mr. Hugh Norris,</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>† John Packer <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† J. Parker <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Alexander Pendarvis <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† John Pery <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Granado Piggot <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Tho. Plume <hi>Dr. in Divinity,</hi>
+               </item>
+               <item>† Mr. John Packer,</item>
+               <item>† Mr. John Pargiter,</item>
+               <item>† Mr. James Pattrickſon,</item>
+               <item>† Mr. Thomas Patrick,</item>
+               <item>† Mr. Samuel Pitman,</item>
+               <item>† Mr. Hezekiah Prichard,</item>
+               <item>† Mr. Daniel Puckle,</item>
+               <item>Mr. John Packman,</item>
+               <item>Mr. Richard Paratt,</item>
+               <item>Mr. Samuel Phelps,</item>
+               <item>Mr. Nath. Pinnry,</item>
+               <item>Mr. Richard Pont,</item>
+               <item>Mrs. Elizabeth Porter,</item>
+               <item>Mr. William Preſton,</item>
+               <item>Mr. Alexand. Pryor,</item>
+               <item>Mr. Martin Packle,</item>
+               <item>* Mr. Edward Paſmore,</item>
+               <item>* Mr. Chriſtopher Sigiſmund Pechlin,</item>
+               <item>* Mr. Hugh Preſton,</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>† <hi>Sir</hi> Ralph Radcliffe <hi>Kt.</hi>
+               </item>
+               <item>† Thomas Richers <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. Thomas Renda,</item>
+               <item>† Mr. Theodore Rawſon,</item>
+               <item>† Mr. Thomas Reed,</item>
+               <item>† Mr. Thomas Roberts,</item>
+               <item>† Mr. Arthur Robinſon,</item>
+               <item>† Mr. William Rutland <hi>jun.</hi>
+               </item>
+               <item>Mr. Henry Roberts,</item>
+               <item>* Mr. John Rous,</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>† <hi>Sir</hi> Henry Selby <hi>Serj. at Law,</hi>
+               </item>
+               <item>† Edmond Sture <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Humphry Style <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Mr. Richard Shuttleworth,</item>
+               <item>† Mr. Robert Sanders,</item>
+               <item>† Mr. Stephen Scott,</item>
+               <item>† Mr. Thomas Selby,</item>
+               <item>† Mr. John Smith <hi>Scrivener,</hi>
+               </item>
+               <item>† Mr. John Smith <hi>Merchant,</hi>
+               </item>
+               <item>† Mr. Edward Smith,</item>
+               <item>† Mr. Arnold Squibb,</item>
+               <item>† Mr. John Stafford,</item>
+               <item>† Mr. John Swynfen,</item>
+               <item>Mr. Richard Savery,</item>
+               <item>Mr. Robert Scoulding,</item>
+               <item>Mr. John Smallwel,</item>
+               <item>Mr. Humphrey Smith,</item>
+               <item>Mr. William Snelling,</item>
+               <item>Mr. Richard Soame,</item>
+               <item>Mr. Joſeph Sparrow,</item>
+               <item>Mr. Jeffery Staines,</item>
+               <item>* Mrs. Mary Stokes,</item>
+               <item>* Mr. Richard Stretton,</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>† Sir John Talbot <hi>Baronet</hi>
+               </item>
+               <item>† Sir Thomas Travell,</item>
+               <item>† Joſeph Tily <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Charles Trevanion <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Dr. Joſeph Tayler,</item>
+               <item>† Mr. Richard Taylor,</item>
+               <item>† Mr. Daniel Thornhi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>† Mr. Joſhua Tayler,</item>
+               <item>† Mr. Thomas Treſilian,</item>
+               <item>† Mr. Lewis Turton,</item>
+               <item>† Mr. Thomas Turner,</item>
+               <item>William Thompſon <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>* Mr. William Teſhma<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>* <hi>Mrs.</hi> Mary Vander<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>† Sir Edmond War<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+               <item>† Sir Marmaduke W<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+               <item>† Robert Weſt <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>† Rowland Whiddo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>† Mr. Philip Wheal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>† Mr. Abel Wilkinſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>† Mr. Peter Willia<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>† Mr. Robert Wo<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+               <item>John Walker <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>William Woodman <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Mr. John Ware,</item>
+               <item>Capt. Thomas Warner</item>
+               <item>Mr. William Wall,</item>
+               <item>Mr. John Wells,</item>
+               <item>Mrs. Elizabeth Whit<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Mr. Thomas Willia<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>* Capt. Charles W<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>† William Yonge <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>The Names of the preſent DIRECTORS, <hi>Viz.</hi>
+               </head>
+               <item>
+                  <hi>JEffery Amburſt</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>Robert Auſtin</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Mr. <hi>Richard Blackham,</hi>
+               </item>
+               <item>Sir <hi>John Bolles</hi> Bar.</item>
+               <item>Mr. <hi>Theophilus Boughey,</hi>
+               </item>
+               <item>Mr. <hi>John Briſcoe,</hi>
+               </item>
+               <item>
+                  <hi>William Brockman</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>Chriſtopher Davies</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Sir <hi>Matthew Dudley</hi> Bar.</item>
+               <item>Mr. <hi>John Emilie,</hi>
+               </item>
+               <item>Mr. <hi>John Garret,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Gooding</hi> Serj. at Law.</item>
+               <item>The Honourable <hi>Bernard Gran<g ref="char:EOLhyphen"/>ville</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Mr. <hi>Robert Heyſham,</hi>
+               </item>
+               <item>Mr. <hi>George Juyce,</hi>
+               </item>
+               <item>
+                  <hi>George Zangton</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>Ralph Lawton</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>John Metcalfe</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Sir <hi>John Morden</hi> Bar.</item>
+               <item>
+                  <hi>Thomas Neale</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>Edward Le Neve</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Mr. <hi>John Pargiter,</hi>
+               </item>
+               <item>Col. <hi>John Plumer,</hi>
+               </item>
+               <item>
+                  <hi>Alexander Pendarvis</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>John Pery</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Sir <hi>Ralph Radcliffe</hi> Kt.</item>
+               <item>Sir <hi>Henry Selby</hi> Serj.</item>
+               <item>Mr. <hi>John Smith</hi> Scri<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+               <item>Mr. <hi>Arnold Squib,</hi>
+               </item>
+               <item>Mr. <hi>John Stafford,</hi>
+               </item>
+               <item>Sir <hi>John Talbot</hi> Bar.</item>
+               <item>
+                  <hi>Joſeph Tily</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Mr. <hi>John Turner,</hi>
+               </item>
+               <item>
+                  <hi>Robert Weſt</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Mr. <hi>Abel Wilkinſon,</hi>
+               </item>
+               <item>Mr. <hi>Robert Wolley,</hi>
+               </item>
+               <item>
+                  <hi>William Yonge</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
